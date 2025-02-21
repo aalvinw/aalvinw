@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Ramadhan**.<br>
+
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+-->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Alvin**.<br>
+
+Saya seorang peserta **Belajar Dasar AI** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab untuk mempelajari konsep dasar kecerdasan buatan, termasuk machine learning, algoritma, dan penerapan AI dalam berbagai bidang. Saya juga berusaha untuk memahami bagaimana AI dapat digunakan secara etis dan efektif dalam pengembangan teknologi.<br>
+
+Saya juga memiliki gelar S.Kom sejak 2022.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/agustinus-alvin-b23355154/)ku ya.
