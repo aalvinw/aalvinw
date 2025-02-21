@@ -39,4 +39,42 @@ Saya bertanggung jawab untuk mempelajari konsep dasar kecerdasan buatan, termasu
 
 Saya juga memiliki gelar S.Kom sejak 2022.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/agustinus-alvin-b23355154/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/agustinus-alvin-b23355154/)ku ya.<br><br>
+
+
+<!--
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+-->
+
+<!--
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+-->
+
+<!--
+### Github Statistic dewiyulianaa
+<p align="left">
+<a href="https://github.com/dewiyulianaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dewiyulianaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dewiyulianaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+-->
+
+## ___GitHub Statistics___
+<p align="left">
+<a href="https://github.com/aalvinw">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aalvinw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aalvinw&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
