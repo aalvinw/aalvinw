@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **aalvinw/aalvinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
 -->
 
-# Halo semua! 
+# Halo semua! 👋
 
 Perkenalkan nama saya **Alvin**.<br>
 
