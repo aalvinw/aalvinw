@@ -33,7 +33,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 Perkenalkan nama saya **Alvin**.<br>
 
-Saya seorang peserta **Belajar Dasar AI** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang peserta **Laskar AI** di [Dicoding](https://www.dicoding.com/).<br>
 
 Saya bertanggung jawab untuk mempelajari konsep dasar kecerdasan buatan, termasuk machine learning, algoritma, dan penerapan AI dalam berbagai bidang. Saya juga berusaha untuk memahami bagaimana AI dapat digunakan secara etis dan efektif dalam pengembangan teknologi.<br>
 
